@@ -1,3 +1,4 @@
+---
 author: AlxiKan
 title: Pointing Stick
 year: 1992
