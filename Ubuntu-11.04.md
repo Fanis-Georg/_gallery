@@ -7,7 +7,8 @@ caption: Το Unity desktop έχει φτιαχτεί απο την Canonical γ
 license_url: 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Ubuntu-11-04-cat.png'
 license_text: Wikimedia
 categories:
-  - Oparating System
+  - Open Source Oparating System
+  - Ubuntu Unity
   - GUI
   - Desktop
 tags:
