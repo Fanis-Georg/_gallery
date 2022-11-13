@@ -8,8 +8,10 @@ license_url: 'https://upload.wikimedia.org/wikipedia/commons/3/3c/First_MS-Mouse
 license_text: Wikimedia, Credit:Rolf Hartmann (Erkaha)
 categories:
   - Αρχέτυπα
-  - Συσκευή εισόδου
+  - Μέθοδος
+  - Συσκευές Eισόδου
 tags:
-  - Windows
+  - Microsoft Windows
   - Ποντίκι
+  - MSDOS
 ---
