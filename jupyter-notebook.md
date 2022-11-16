@@ -9,11 +9,8 @@ license_text: Wikimedia
 categories:
   - Εργαλεία
   - Επεξεργαστής Κειμένου
-  - προγραμματιστικό περιβάλλον
+  - Ολοκληρομένο Περιβάλλον Ανάπτυξης
 tags:
   - Project Jupyter
-  - Python
-  - Notebook
-  - Artificial Intelligence
-  - Data Science
+  - Notebooks
 ---
