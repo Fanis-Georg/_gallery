@@ -7,9 +7,10 @@ caption: Το templeOS δημιουργήθηκε απο τον Terry Davis, α�
 license_url:  https://wikimediafoundation.org/our-work/commons/
 license_text: 
 categories:
-  -Λειτουργικό Σύστημα
+  - Λειτουργικό Σύστημα
 tags:
-  -Terry Davis
-  -Λειτουργικό Συστημα
-  -Holy C
+  - Terry Davis
+  - Λειτουργικό Συστημα
+  - Holy C
+  - GUI
 ---
